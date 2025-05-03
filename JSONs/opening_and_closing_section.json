@@ -1,0 +1,51 @@
+{
+  "Set of vehicle keys": [
+    "- The vehicle comes with at least two keys.",
+    "- One key is active with remote control functions.",
+    "- The key includes a mechanical key blade for emergencies.",
+    "- Replace lost keys at a CUPRA service center.",
+    "- Keep the key battery charged to ensure proper operation."
+  ],
+  "Keyless Access system": [
+    "- Allows locking/unlocking without using the remote control buttons.",
+    "- The system detects the key near the vehicle.",
+    "- Touching the door handle unlocks the car.",
+    "- The engine can be started with the key inside the car.",
+    "- System may be deactivated in the infotainment settings."
+  ],
+  "Central locking": [
+    "- Locks/unlocks all doors simultaneously.",
+    "- Controlled by key remote or interior switch.",
+    "- Automatic locking activates above certain speeds.",
+    "- Visual signals (e.g., hazard lights) indicate locking status.",
+    "- Doors can still be opened from inside unless child safety locks are active."
+  ],
+  "Anti-theft alarm": [
+    "- Triggers if doors, bonnet or boot are opened without authorization.",
+    "- Alarm is activated when locking the car with the key or sensor.",
+    "- Audible and visual signals are emitted when triggered.",
+    "- Interior monitoring can be deactivated manually before locking.",
+    "- Alarm can be disarmed with the key or starting the engine."
+  ],
+  "Doors": [
+    "- Open via exterior handle or interior lever.",
+    "- Door status shown in Digital Cockpit.",
+    "- Emergency locking possible from inside.",
+    "- Do not drive with doors ajar; warning indicator will activate.",
+    "- Ensure all doors are properly closed before driving."
+  ],
+  "Rear lid": [
+    "- Operated manually or electrically depending on model.",
+    "- Can be opened with remote key, button on lid, or driver’s door switch.",
+    "- Hands-free opening available via foot gesture (if equipped).",
+    "- Safety function halts movement if obstacle detected.",
+    "- Closing height can be adjusted via infotainment system."
+  ],
+  "Window controls": [
+    "- Operated using switches on the driver's door.",
+    "- One-touch up/down function available.",
+    "- Child safety lock disables rear window controls.",
+    "- Windows can be operated from outside using the key (comfort closing).",
+    "- Anti-pinch function stops and reverses window if resistance is detected."
+  ]
+}

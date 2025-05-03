@@ -1,0 +1,49 @@
+{
+  "Control lamps": [
+    "- Warning and control lights can indicate anomalies or system activations.",
+    "- Red central warning lamp: Stop driving immediately; danger.",
+    "- Yellow central warning lamp: Operating fault or low fluid; check soon.",
+    "- Green/blue/white/grey lamps: Informational.",
+    "- Symbols include warnings for brake fluid, ESC, ABS, airbag, CO2 concentration, etc.",
+    "- Ignoring warnings can result in serious accidents or damage.",
+    "- Multiple warnings may appear sequentially.",
+    "- Vehicle may restrict settings if faults are present during ignition."
+  ],
+  "Instrument cluster": [
+    "- Displays driving data, range, charge status, and system messages.",
+    "- Digital Cockpit offers multiple views: Summary, Basic, Driver Assistants, Navigation.",
+    "- Warnings and pop-ups shown dynamically.",
+    "- Power display shows current power availability and drive/recuperation.",
+    "- Color indicators show state-of-charge and limits (yellow, red).",
+    "- Head-up-Display (HUD) includes Proximity HUD and AR HUD for real-time info.",
+    "- HUD settings configurable in infotainment (brightness, content, positioning).",
+    "- Status display shows info such as door/bonnet status, warnings, outside temperature, speed limits."
+  ],
+  "Drowsiness monitor": [
+    "- Detects driver fatigue based on behavior above 60 km/h.",
+    "- Issues visual and audible warnings at 3 fatigue levels.",
+    "- Level 1: Mild warning; consider a break.",
+    "- Level 2: Stronger warning; take a break soon.",
+    "- Level 3: Serious risk; stop driving immediately.",
+    "- Also provides time-based alerts after 4.5h of uninterrupted driving.",
+    "- May be limited in poor road/weather conditions, sporty driving, or while towing.",
+    "- Can be reset or deactivated in the infotainment system.",
+    "- Sensitivity can be adjusted."
+  ],
+  "Driver attention monitor": [
+    "- Detects distraction based on vehicle input at speeds >10 km/h.",
+    "- Gives staged visual and audio warnings.",
+    "- Stage 1: White icon, stop inputs and focus.",
+    "- Stage 2: Red warning, increased urgency.",
+    "- Stage 3: Serious traffic risk; stop immediately.",
+    "- May be limited during traffic, distraction, or slow speeds.",
+    "- Settings adjustable in infotainment (activation, warning sounds, sensitivity)."
+  ],
+  "Road signs detection system": [
+    "- Uses front camera to detect speed limits, warning signs, and restrictions.",
+    "- Works dynamically; shows current limits and warnings on cockpit and HUD.",
+    "- Recognizes additional/temporary signs and displays generic icon.",
+    "- No entry detection provides alerts when entering one-way roads or highways.",
+    "- Limited in poor visibility, bad weather, or dirty camera."
+  ]
+}

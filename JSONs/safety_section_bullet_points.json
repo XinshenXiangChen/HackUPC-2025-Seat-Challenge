@@ -1,0 +1,51 @@
+{
+  "Safe driving": [
+    "- Adjust driving to visibility, weather, road and traffic conditions.",
+    "- Avoid distractions while driving.",
+    "- Respect traffic regulations and speed limits.",
+    "- Ensure passengers wear seat belts and sit correctly.",
+    "- Maintain a safe distance from vehicles in front."
+  ],
+  "Correct sitting position of vehicle occupants": [
+    "- Sit upright with full back against the seat backrest.",
+    "- Adjust seat so that pedals can be fully depressed with knees slightly bent.",
+    "- Maintain at least 25 cm distance between chest and steering wheel.",
+    "- Adjust headrest to the top of the head.",
+    "- Ensure front passenger seat is as far back as possible for airbag deployment."
+  ],
+  "Seat belts": [
+    "- Seat belts reduce risk of serious injury in accidents.",
+    "- Always fasten seat belts before driving.",
+    "- Seat belt must lie flat across chest and pelvis; never on neck or stomach.",
+    "- Avoid wearing seat belts over hard or fragile objects.",
+    "- Periodically check belt condition and function."
+  ],
+  "PreCrash system": [
+    "- Prepares the vehicle for a possible accident.",
+    "- Activates reversible belt tensioners.",
+    "- Closes windows and sunroof.",
+    "- Activates hazard warning lights.",
+    "- Functions are cancelled when the critical situation ends."
+  ],
+  "Airbag system": [
+    "- Includes front, side and curtain airbags.",
+    "- Front airbags provide head and chest protection.",
+    "- Side airbags protect the thorax and pelvis in side collisions.",
+    "- Curtain airbags cover side windows in severe impacts.",
+    "- Airbag system is monitored electronically and warning light signals issues."
+  ],
+  "Transporting children safely": [
+    "- Always use appropriate child restraint system based on age, size and weight.",
+    "- Children must not travel in front seat unless airbag is deactivated.",
+    "- Use ISOFIX and Top Tether if available.",
+    "- Do not leave children unattended in the vehicle.",
+    "- Rearward-facing child seats must not be used with active front passenger airbag."
+  ],
+  "In case of emergency": [
+    "- Stop the vehicle safely and activate hazard lights.",
+    "- Apply parking brake and switch off ignition.",
+    "- Exit the vehicle safely and place warning triangle.",
+    "- Follow local legal requirements in emergency situations.",
+    "- Seek professional help or roadside assistance if needed."
+  ]
+}

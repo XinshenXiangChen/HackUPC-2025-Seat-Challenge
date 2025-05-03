@@ -1,0 +1,68 @@
+{
+  "Park the vehicle": [
+    "- Always park the vehicle on a flat and stable surface.",
+    "- Apply the electronic parking brake before leaving the vehicle.",
+    "- Engage gear P and switch off the drive system.",
+    "- Ensure all windows and doors are closed before locking."
+  ],
+  "Electronic parking brake": [
+    "- Activates automatically when the vehicle is turned off.",
+    "- Can be engaged manually by pulling the switch.",
+    "- Releases automatically when driving off with gear engaged.",
+    "- A warning light indicates the status of the parking brake."
+  ],
+  "General information on parking systems": [
+    "- Parking systems assist the driver during parking manoeuvres.",
+    "- Use ultrasonic sensors and cameras to detect obstacles.",
+    "- The system may not detect low or small objects.",
+    "- Always supervise the parking process and be ready to intervene."
+  ],
+  "Park Distance Control Plus (Park Pilot)": [
+    "- Provides visual and acoustic feedback about distances to obstacles.",
+    "- Active when reversing or manually activated.",
+    "- Shows a top-down display on the infotainment screen.",
+    "- Audible tones increase in frequency as obstacles get closer."
+  ],
+  "Intelligent Park Assist (IPA) automatic parking system": [
+    "- Automatically steers the vehicle into parking spaces.",
+    "- The driver controls acceleration, braking, and gear selection.",
+    "- Works with both parallel and perpendicular parking spots.",
+    "- Visual prompts assist the driver during the manoeuvre."
+  ],
+  "Automatic Parking System Plus with memory function": [
+    "- Learns and stores frequent parking manoeuvres.",
+    "- Activated manually or automatically when near stored locations.",
+    "- Assists with repetitive parking in familiar spots.",
+    "- Allows the driver to monitor and intervene at any time."
+  ],
+  "Automatic parking system plus with remote function (My CUPRA App)": [
+    "- Enables parking manoeuvres using the My CUPRA App.",
+    "- The driver can control the vehicle from outside.",
+    "- Useful in tight spaces where entry/exit is difficult.",
+    "- Requires confirmation via smartphone before executing."
+  ],
+  "Reverse Assist (Rear View Camera)": [
+    "- Activates automatically when selecting reverse gear.",
+    "- Provides a wide-angle view behind the vehicle.",
+    "- Guidelines help estimate distance and trajectory.",
+    "- Keep the camera lens clean for optimal performance."
+  ],
+  "Peripheral view system (Top View Camera)": [
+    "- Offers a 360° view of the surroundings.",
+    "- Combines images from multiple cameras.",
+    "- Helps in tight manoeuvring and detecting low obstacles.",
+    "- Displayed on the infotainment screen in real time."
+  ],
+  "Rear Cross Traffic Alert": [
+    "- Warns of crossing traffic when reversing.",
+    "- Uses radar sensors to detect movement from the sides.",
+    "- Provides audible and visual alerts.",
+    "- May apply braking in critical situations to avoid collisions."
+  ],
+  "Exit Warning": [
+    "- Alerts occupants of approaching traffic before opening doors.",
+    "- Uses radar to monitor the vehicle's surroundings.",
+    "- Visual and acoustic warnings are triggered.",
+    "- Enhances safety when exiting in traffic or narrow spaces."
+  ]
+}

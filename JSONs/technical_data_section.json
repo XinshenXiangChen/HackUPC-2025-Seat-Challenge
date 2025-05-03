@@ -1,0 +1,20 @@
+{
+  "Indications about the technical data": [
+    "- All technical data is based on the manufacturer's data at the time of printing.",
+    "- Data may vary depending on version, equipment, and country of sale.",
+    "- Tolerances apply to all values, especially those relating to performance and weights.",
+    "- Consult official CUPRA documentation for the latest and most precise specifications."
+  ],
+  "Engine specifications": [
+    "- Electric motor types, battery capacity, and system output may vary by model.",
+    "- Power output is typically measured in kW (kilowatts).",
+    "- Torque figures are given in Nm (Newton meters).",
+    "- High-voltage system specifications are detailed in the owner's documentation."
+  ],
+  "Dimensions": [
+    "- Length, width, and height measurements are provided in millimeters.",
+    "- Turning circle indicates the smallest space in which the vehicle can turn.",
+    "- Luggage capacity is given with and without rear seats folded.",
+    "- Ground clearance and approach/departure angles may vary by suspension type and configuration."
+  ]
+}

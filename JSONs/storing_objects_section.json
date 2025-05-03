@@ -1,0 +1,33 @@
+{
+  "Positioning the luggage and cargo": [
+    "- Always secure items to prevent shifting during driving.",
+    "- Place heavy objects as far forward as possible.",
+    "- Do not exceed the maximum load capacity of the luggage compartment.",
+    "- Avoid placing objects in the passenger area that may become projectiles.",
+    "- Use nets, belts, or lashing eyes to secure cargo."
+  ],
+  "Luggage compartment": [
+    "- Offers a flat loading surface and is accessible via the tailgate.",
+    "- The rear seats can be folded to increase cargo capacity.",
+    "- Lighting and power sockets may be present in the compartment.",
+    "- Underfloor storage is available for tools and emergency equipment."
+  ],
+  "Luggage compartment equipment": [
+    "- Includes side storage areas and a variable loading floor.",
+    "- Hooks and tie-down points help secure shopping bags or cargo.",
+    "- Some models feature an electric tailgate with programmable opening height.",
+    "- Compartments may include quick-access tools and charging accessories."
+  ],
+  "Roof carrier": [
+    "- Use only CUPRA-approved roof racks and mounting systems.",
+    "- Maximum load capacity includes the weight of the carrier itself.",
+    "- Distribute load evenly and secure with straps.",
+    "- Regularly check fixation during travel, especially on long trips."
+  ],
+  "Trailer mode": [
+    "- Activates when a trailer is connected via the towing socket.",
+    "- Adjusts driving systems like ESC and ACC for trailer dynamics.",
+    "- Rear sensors and assistance systems adapt or deactivate accordingly.",
+    "- Follow national regulations and weight limits when towing."
+  ]
+}

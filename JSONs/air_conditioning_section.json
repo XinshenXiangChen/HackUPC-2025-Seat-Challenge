@@ -1,0 +1,25 @@
+{
+  "Heating, ventilation and cooling": [
+    "- The automatic air conditioning system regulates temperature, airflow and distribution automatically.",
+    "- Driver and passenger can adjust temperature independently (dual zone).",
+    "- A/C function cools the interior and reduces humidity.",
+    "- Air distribution can be directed manually via the touchscreen or control panel.",
+    "- Rear passengers may have dedicated air vents and climate controls.",
+    "- The system uses sensors to regulate air temperature and sunlight exposure.",
+    "- Windshield defrost function activates maximum blower speed and temperature.",
+    "- Air recirculation mode blocks external air and can be activated manually or automatically.",
+    "- Avoid extended use of recirculation mode to prevent window fogging.",
+    "- Fan speed can be adjusted manually.",
+    "- The system may operate at reduced power to save energy in certain conditions."
+  ],
+  "Stationary air conditioning": [
+    "- Allows pre-heating or pre-cooling of the vehicle when parked.",
+    "- Can be activated immediately or programmed for a specific time.",
+    "- Uses the high-voltage battery, which must have sufficient charge.",
+    "- Activation options include the infotainment system or CUPRA app.",
+    "- Departure time scheduling ensures a comfortable temperature at a desired time.",
+    "- Recommended to use while the vehicle is connected to a charging station.",
+    "- Saves energy during driving by conditioning the cabin in advance.",
+    "- May be disabled if battery state of charge is too low."
+  ]
+}

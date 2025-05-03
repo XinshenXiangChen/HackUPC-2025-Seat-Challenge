@@ -1,0 +1,50 @@
+{
+  "First steps": [
+    "- The system starts when the ignition is switched on.",
+    "- Initial configuration may include language, time, and display preferences.",
+    "- Personal user profiles can be created and loaded at startup.",
+    "- Use touch screen or steering controls to navigate menus."
+  ],
+  "Overview and controls": [
+    "- Touchscreen is the main interface for infotainment functions.",
+    "- Shortcuts, widgets, and home screen layout can be customized.",
+    "- Use swipe, tap, and long press gestures to interact with menus.",
+    "- Volume and quick functions are accessible via touch sliders or buttons."
+  ],
+  "General instructions for use": [
+    "- Do not operate the system while driving unless absolutely necessary.",
+    "- Regular software updates may add new functions or improve stability.",
+    "- Settings can be restored to default if needed.",
+    "- Use voice commands or CUPRA Assistant for hands-free operation."
+  ],
+  "CUPRA Assistant": [
+    "- Voice-controlled assistant responds to natural speech.",
+    "- Say “Hola, Hola” or press the voice control button to activate.",
+    "- Can control navigation, media, phone, and climate settings.",
+    "- Adapts to user preferences over time."
+  ],
+  "Radio mode": [
+    "- Supports FM/DAB/Internet radio depending on region and configuration.",
+    "- Station lists can be updated manually or automatically.",
+    "- Favorites can be stored and reordered.",
+    "- RDS provides additional information like station name and song title."
+  ],
+  "Media Mode": [
+    "- Play media from USB, Bluetooth, SD card, or streaming services.",
+    "- Media source selection is done through the main menu.",
+    "- Album art and metadata are displayed when available.",
+    "- Playback controls include repeat, shuffle, and browsing by folder or tag."
+  ],
+  "Navigation": [
+    "- GPS-based system with 2D/3D map views and turn-by-turn directions.",
+    "- Online features offer real-time traffic, POI search, and route recalculation.",
+    "- Input destinations via address, voice, or recent destinations.",
+    "- Route options include fastest, shortest, and eco-friendly."
+  ],
+  "Telephone interface": [
+    "- Pair phones via Bluetooth for calls and messaging.",
+    "- Access contacts, call history, and keypad through the touchscreen.",
+    "- Voice dialing and SMS readout available for supported devices.",
+    "- Call audio is routed through the vehicle’s speaker system."
+  ]
+}

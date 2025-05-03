@@ -1,0 +1,44 @@
+{
+  "Safety instructions": [
+    "- Do not open, modify, or tamper with high-voltage components.",
+    "- Repairs must be performed by qualified personnel only.",
+    "- In case of an accident, do not touch exposed orange cables or components.",
+    "- Avoid water or snow contact with high-voltage areas.",
+    "- Turn off the vehicle before servicing any electrical systems.",
+    "- Risk of severe burns, electric shock, or death if safety instructions are ignored."
+  ],
+  "Conservation of the high-voltage battery": [
+    "- Avoid deep discharge and long-term full charging.",
+    "- Park the vehicle in the shade or in a garage when possible.",
+    "- Keep the battery charge between 20% and 80% for longevity.",
+    "- Use scheduled charging to delay battery aging.",
+    "- Reduce use of fast charging to prevent thermal stress."
+  ],
+  "Charging the high-voltage battery": [
+    "- Use compatible AC or DC charging stations.",
+    "- Charging information is displayed in the Digital Cockpit and infotainment system.",
+    "- The charging socket has an LED display to indicate charging status.",
+    "- Charging may be limited by battery temperature or power availability.",
+    "- Interrupting the charging process repeatedly may reduce battery performance over time."
+  ],
+  "Charging settings": [
+    "- Configure charging power, limit and departure times via infotainment.",
+    "- Set timers for climate control while charging.",
+    "- Use reduced charging power for domestic sockets.",
+    "- Charging can be adapted to prioritize efficiency or battery preservation.",
+    "- Charging profiles can be saved for different locations."
+  ],
+  "Charging with a home energy management system": [
+    "- Supports integration with smart home systems.",
+    "- Allows dynamic adjustment of charging based on home energy use.",
+    "- Requires compatible home charger and configuration.",
+    "- Helps optimize energy usage and reduce electricity costs."
+  ],
+  "Charging cable": [
+    "- Always use undamaged and approved cables.",
+    "- Store cables clean, dry and away from heat or direct sunlight.",
+    "- Inspect cable before each use for signs of wear or damage.",
+    "- Do not use adapters not approved by the manufacturer.",
+    "- Handle plug and cable with dry hands only."
+  ]
+}

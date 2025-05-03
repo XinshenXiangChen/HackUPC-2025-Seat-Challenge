@@ -1,0 +1,41 @@
+{
+  "Front compartment": [
+    "- Contains components for checking and refilling fluids.",
+    "- Only open when the vehicle is parked and the drive system is off.",
+    "- Be cautious of hot components and moving parts.",
+    "- The front compartment may include covers that must be removed carefully."
+  ],
+  "Fluids and consumables": [
+    "- Use only approved fluids and consumables as specified in the owner's manual.",
+    "- Check levels regularly and top up when needed.",
+    "- Overfilling can cause system damage or leaks.",
+    "- Labels indicate fluid type and filling instructions."
+  ],
+  "Cooling system": [
+    "- Check coolant level when the engine is cold.",
+    "- The coolant reservoir is translucent for easy viewing.",
+    "- Only refill with approved coolant mixture.",
+    "- Never open the coolant cap when hot to avoid scalding.",
+    "- Leaks or low levels should be checked by a service partner."
+  ],
+  "Brake fluid": [
+    "- The brake fluid reservoir is located in the engine compartment.",
+    "- Check level against the MAX and MIN markings.",
+    "- Use only fluid that meets the correct DOT specification.",
+    "- A low level may indicate a leak or worn brake pads.",
+    "- If fluid is dirty or low, contact a service center immediately."
+  ],
+  "Windscreen washer reservoir": [
+    "- Use suitable washer fluid, especially in winter (with antifreeze).",
+    "- The cap is typically marked with a windscreen icon.",
+    "- Do not overfill the reservoir.",
+    "- Keep the nozzle free of obstructions for proper spraying."
+  ],
+  "12-volt battery": [
+    "- Used to power auxiliary systems and start the vehicle’s electronics.",
+    "- Located in the front compartment or under a cover in the trunk depending on model.",
+    "- Check for corrosion on terminals and ensure secure connections.",
+    "- Replacement should be done by a qualified professional.",
+    "- Disconnecting the battery may affect system settings."
+  ]
+}

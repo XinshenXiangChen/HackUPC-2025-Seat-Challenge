@@ -1,0 +1,79 @@
+{
+  "General notes": [
+    "- Assistant systems support the driver but do not replace attention or responsibility.",
+    "- The driver must always maintain control of the vehicle.",
+    "- Each system has limitations depending on traffic, weather, and road conditions."
+  ],
+  "Drive assist sensors and cameras": [
+    "- Sensors and cameras detect surroundings for assistant functions.",
+    "- Keep sensors and lenses clean and unobstructed.",
+    "- Extreme weather may affect sensor performance.",
+    "- Sensors are located in the front, rear, and exterior mirrors."
+  ],
+  "Cruise control system": [
+    "- Maintains a set speed without pressing the accelerator.",
+    "- Operated via steering wheel buttons.",
+    "- Can be paused and resumed at any time.",
+    "- Automatically deactivates when braking or clutching."
+  ],
+  "Speed limiter": [
+    "- Prevents the vehicle from exceeding a preset speed.",
+    "- The driver can override the limit by pressing the accelerator firmly.",
+    "- System alerts when the limit is approached.",
+    "- Adjustable via the steering controls or infotainment."
+  ],
+  "Speed limiter with proactive speed adjustment": [
+    "- Adjusts speed based on detected speed limits.",
+    "- Uses navigation and camera data for predictions.",
+    "- Can be combined with cruise control for smooth driving.",
+    "- The driver can override at any time."
+  ],
+  "Eco Assistance": [
+    "- Provides driving tips to reduce energy consumption.",
+    "- Suggests when to lift off the accelerator.",
+    "- Works with predictive navigation data.",
+    "- Promotes efficient, anticipatory driving."
+  ],
+  "ACC - Adaptive Cruise Control": [
+    "- Maintains set speed and safe distance from the vehicle in front.",
+    "- Automatically accelerates and brakes within limits.",
+    "- Distance and dynamics adjustable via infotainment.",
+    "- Alerts if driver intervention is required."
+  ],
+  "Predictive speed adjustment": [
+    "- Adjusts speed in anticipation of curves, junctions, and limits.",
+    "- Uses map data and sensors to prepare for changes.",
+    "- Enhances comfort and energy efficiency.",
+    "- Can be enabled or disabled in settings."
+  ],
+  "Emergency brake assistance system (Front Assist)": [
+    "- Warns of possible collisions with vehicles or pedestrians.",
+    "- Initiates automatic braking if the driver doesn’t react.",
+    "- Provides visual and acoustic alerts.",
+    "- May apply full braking force in critical situations."
+  ],
+  "Lane Assist system": [
+    "- Detects lane markings and keeps the vehicle centered.",
+    "- Provides corrective steering if lane is unintentionally left.",
+    "- Active above a certain speed threshold.",
+    "- Requires hands on the wheel; may deactivate otherwise."
+  ],
+  "Travel Assist": [
+    "- Combines Lane Assist and Adaptive Cruise Control.",
+    "- Maintains speed, distance, and keeps the vehicle in lane.",
+    "- Requires driver supervision and hands on the wheel.",
+    "- Visual signals in Digital Cockpit show active status."
+  ],
+  "Emergency Assist": [
+    "- Detects driver inactivity and attempts to reactivate.",
+    "- Issues escalating warnings before intervention.",
+    "- Slows the vehicle to a stop if the driver is unresponsive.",
+    "- Activates hazard lights and calls emergency services (if equipped)."
+  ],
+  "Lane departure warning (Side Assist)": [
+    "- Monitors blind spots and alerts when vehicles are nearby.",
+    "- Provides visual signals in mirrors or cockpit.",
+    "- May intervene to prevent unsafe lane changes.",
+    "- Works together with Rear Traffic Alert during reversing."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Cybersecurity": [
+    "- Protects vehicle systems from unauthorized access and manipulation.",
+    "- Ensures integrity of software and communication systems.",
+    "- Regular updates maintain the protection level."
+  ],
+  "Over-the-air update": [
+    "- Software updates are delivered automatically via mobile data.",
+    "- Update notifications appear in the infotainment system.",
+    "- Some updates may require confirmation or vehicle parked condition.",
+    "- Installation may take several minutes; follow system prompts."
+  ],
+  "Car2X communication": [
+    "- Enables communication with other vehicles and infrastructure.",
+    "- Improves awareness of road hazards and traffic events.",
+    "- Warning messages are shown in the cockpit.",
+    "- Function depends on active mobile connection and compatibility."
+  ],
+  "CUPRA CONNECT": [
+    "- Connects the vehicle to online services via mobile network.",
+    "- Includes remote control via app (e.g., lock/unlock, charging, A/C).",
+    "- Enables navigation with online traffic and point-of-interest data.",
+    "- Requires registration and activation via the CUPRA app or portal."
+  ],
+  "Privacy mode": [
+    "- Allows the user to restrict or disable data transmission.",
+    "- Can be configured via infotainment system settings.",
+    "- May affect the availability of certain online services.",
+    "- Ideal when handing over the vehicle or for rental scenarios."
+  ],
+  "User administration": [
+    "- Multiple user profiles can be stored in the system.",
+    "- Profiles include individual preferences and settings.",
+    "- Switching users updates climate, seat, and infotainment settings.",
+    "- Admin user can manage rights for other profiles."
+  ],
+  "WLAN access point": [
+    "- The vehicle can provide internet access via mobile data.",
+    "- Devices can connect using WLAN to browse or stream.",
+    "- Configure access point settings from infotainment.",
+    "- Data charges may apply depending on provider."
+  ],
+  "Full Link": [
+    "- Allows smartphone integration via Android Auto, Apple CarPlay, or MirrorLink.",
+    "- Connect via USB or wirelessly (depending on device).",
+    "- Apps and functions are displayed on the infotainment screen.",
+    "- Usage may depend on phone compatibility and regional availability."
+  ],
+  "Wired and wireless connections": [
+    "- USB-C ports available in front and rear areas.",
+    "- Wireless phone charger may be present in the center console.",
+    "- Bluetooth enables hands-free calls and media streaming.",
+    "- Pairing devices requires confirmation on both sides for security."
+  ]
+}

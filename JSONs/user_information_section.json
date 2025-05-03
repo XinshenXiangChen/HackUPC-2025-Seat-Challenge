@@ -1,0 +1,52 @@
+{
+  "Warranty": [
+    "- The vehicle is covered by a manufacturer's warranty.",
+    "- Warranty terms and conditions may vary by country.",
+    "- Certain components have extended warranty periods (e.g., high-voltage battery).",
+    "- Regular maintenance and correct use are required to keep the warranty valid."
+  ],
+  "Information stored by the control units": [
+    "- Control units store data related to vehicle operation and system status.",
+    "- This includes diagnostic codes, system faults, and sensor data.",
+    "- Data may be used by service personnel for diagnostics and repairs.",
+    "- Some data may be transmitted for remote services or legal obligations."
+  ],
+  "Vehicle antennas": [
+    "- The vehicle is equipped with multiple antennas for radio, navigation, and mobile communication.",
+    "- Avoid covering or damaging the antenna areas.",
+    "- Some antennas are integrated into the vehicle’s windows or roof."
+  ],
+  "Fluids in the air conditioning system": [
+    "- The air conditioning system contains refrigerant and lubricating oil.",
+    "- Only qualified personnel should service the A/C system.",
+    "- Fluids are listed with reference numbers for identification and handling."
+  ],
+  "Information on the EU chemicals regulation": [
+    "- The vehicle complies with European chemical regulations.",
+    "- Substances of very high concern (SVHC) are managed according to REACH requirements."
+  ],
+  "REACH": [
+    "- REACH (Registration, Evaluation, Authorisation and Restriction of Chemicals) regulates chemical use.",
+    "- The vehicle's components comply with REACH legislation.",
+    "- Safety information for substances is available through the manufacturer."
+  ],
+  "Materials and recycling information": [
+    "- Many components are recyclable and marked with identification codes.",
+    "- The manufacturer supports environmentally responsible recycling and material reuse.",
+    "- Customers are encouraged to dispose of materials via authorised recycling programs."
+  ],
+  "Return and scrapping of end-of-life vehicles": [
+    "- CUPRA provides take-back solutions for end-of-life vehicles.",
+    "- Vehicles must be delivered to authorised facilities for proper dismantling and recycling.",
+    "- National regulations apply to the return process and recovery of materials."
+  ],
+  "Declaration of conformity": [
+    "- The vehicle complies with all relevant EU directives and standards.",
+    "- The declaration is available on request from the manufacturer or authorised dealers."
+  ],
+  "Radioelectrical equipment": [
+    "- The vehicle includes radio equipment compliant with EU directive 2014/53/EU.",
+    "- Devices operate within approved frequency bands and power levels.",
+    "- Technical documentation is available upon request."
+  ]
+}

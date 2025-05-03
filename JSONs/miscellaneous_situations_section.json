@@ -1,0 +1,41 @@
+{
+  "Vehicle tool kit": [
+    "- Usually located in the luggage compartment or underfloor storage.",
+    "- May include wheel bolt adapter, screwdriver, towing eye, and jack.",
+    "- Only use tools that are in good condition and approved for the vehicle."
+  ],
+  "Changing the windscreen wiper blades": [
+    "- Raise the wiper arm away from the windshield.",
+    "- Press the release tab to remove the old blade.",
+    "- Slide the new blade into position until it clicks.",
+    "- Ensure the blade is securely attached before lowering the arm."
+  ],
+  "Jump start": [
+    "- Only use jump cables with sufficient cross-section.",
+    "- Connect the positive cable to the discharged and donor battery terminals.",
+    "- Connect the negative cable to a metal ground point away from the battery.",
+    "- Start the donor vehicle first, then the discharged one.",
+    "- Do not allow the cables to touch moving parts."
+  ],
+  "Towing the vehicle": [
+    "- Use the designated towing eye stored with the tool kit.",
+    "- Screw it firmly into the threaded mount in the bumper.",
+    "- Tow slowly and avoid jerky movements.",
+    "- Steering and braking require more effort when towed without engine power.",
+    "- Do not tow with a rope if the distance is too long or legally restricted."
+  ],
+  "Fuses": [
+    "- Fuses protect electrical systems from overcurrent.",
+    "- Fuse boxes are located in the cabin and luggage compartment.",
+    "- Replace fuses only with those of the same rating.",
+    "- If a new fuse blows immediately, contact a service center.",
+    "- Use the fuse diagram for correct identification."
+  ],
+  "Changing bulbs": [
+    "- Switch off ignition and lights before replacing bulbs.",
+    "- Avoid touching the glass part of halogen bulbs with bare hands.",
+    "- Access may require removing covers or panels.",
+    "- Use only approved bulbs with correct specification.",
+    "- If unsure, contact a service partner for assistance."
+  ]
+}

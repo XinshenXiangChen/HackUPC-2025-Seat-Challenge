@@ -1,0 +1,52 @@
+{
+  "Driving indications": [
+    "- Vehicle displays messages when the ignition is switched on.",
+    "- Warning and indicator lights provide information about vehicle systems.",
+    "- Power meter shows energy consumption and recuperation in real time.",
+    "- Drive readiness is shown with a READY indicator in the display."
+  ],
+  "Connecting and disconnecting the drive system": [
+    "- The drive system is activated when pressing the brake and selecting a gear.",
+    "- READY appears in the display once the system is active.",
+    "- Drive system is disconnected automatically when the vehicle is parked and switched off.",
+    "- To deactivate, press the START button without the brake pedal."
+  ],
+  "Gear selection": [
+    "- The gear selector lever is located on the steering column.",
+    "- Available positions: D (Drive), R (Reverse), N (Neutral), P (Park).",
+    "- To change from P or N to D or R, press the brake.",
+    "- Always engage P when parking the vehicle.",
+    "- Selector includes a manual mode for recuperation control."
+  ],
+  "Energy recuperation with the steering wheel levers": [
+    "- Steering wheel paddles adjust the level of energy recuperation.",
+    "- Recuperation slows the vehicle and charges the battery.",
+    "- Three levels available: low, medium, and high.",
+    "- Selection affects driving feel and energy efficiency."
+  ],
+  "Steering": [
+    "- Steering is electric and adjusts with vehicle speed.",
+    "- At low speeds, it provides light assistance for easy maneuvering.",
+    "- At high speeds, it firms up for improved control.",
+    "- Avoid holding the steering at full lock for long periods."
+  ],
+  "Drive Profiles": [
+    "- Several driving profiles are available: Range, Comfort, Performance, etc.",
+    "- Profiles modify steering, drive system, suspension, and climate settings.",
+    "- Off-road profile optimizes traction on loose surfaces.",
+    "- Profile selection can be made via infotainment.",
+    "- User-defined profile may be available for custom settings."
+  ],
+  "Braking system": [
+    "- Vehicle uses an electronic brake system with regenerative function.",
+    "- Brake energy recovery supplements conventional braking.",
+    "- Brake pedal feel may differ slightly from traditional systems.",
+    "- System is monitored for safety and reliability."
+  ],
+  "Brake assist systems": [
+    "- Includes features like ABS, ESC, and emergency brake assist.",
+    "- Prevents wheel lock-up and helps maintain steering during hard braking.",
+    "- ESC corrects vehicle path in skidding situations.",
+    "- Hill hold assist prevents rollback when starting on inclines."
+  ]
+}

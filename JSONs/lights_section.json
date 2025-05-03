@@ -1,0 +1,24 @@
+{
+  "Vehicle lighting": [
+    "- Automatic lighting switches between dipped beam and daytime running lights depending on ambient light.",
+    "- Main beam can be activated manually using the left-hand lever.",
+    "- Main beam assistant (if equipped) automatically toggles high beams for oncoming traffic.",
+    "- Front fog lights improve visibility in foggy conditions.",
+    "- Rear fog light increases rear visibility in dense fog.",
+    "- Static cornering lights activate at low speeds to illuminate turns.",
+    "- Daytime running lights are on when the ignition is active and headlights are off.",
+    "- Parking lights can be switched on manually when parked.",
+    "- Hazard warning lights activate all turn signals and should be used in emergencies.",
+    "- Turn signals indicate changes in direction and lane changes.",
+    "- Light settings and preferences can be adjusted via the infotainment system."
+  ],
+  "Interior lights": [
+    "- Front and rear reading lights can be activated manually by pressing the light itself.",
+    "- Ambient lighting enhances cabin comfort and visibility at night.",
+    "- Footwell lighting and door handle illumination may be available depending on trim.",
+    "- Interior lights switch on automatically when doors are opened or the vehicle is unlocked.",
+    "- Delayed switch-off function allows lights to remain on briefly after door closure.",
+    "- Brightness of ambient lighting can be adjusted in the infotainment system.",
+    "- Lighting profiles may vary based on driving mode or user preferences."
+  ]
+}

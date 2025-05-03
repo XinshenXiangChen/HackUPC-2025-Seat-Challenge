@@ -1,0 +1,25 @@
+{
+  "Important information about wheels and tyres": [
+    "- Use only tyres and wheels approved by CUPRA.",
+    "- Mixing different types of tyres may affect safety and performance.",
+    "- Check tyre condition and tread depth regularly.",
+    "- Tyre pressure must match the specifications on the label in the door frame.",
+    "- Driving with incorrect tyre pressure increases wear and fuel consumption.",
+    "- Replace damaged or aged tyres even if they have sufficient tread."
+  ],
+  "Changing a wheel": [
+    "- Only change the wheel in a safe location on solid ground.",
+    "- Engage the electronic parking brake and use hazard warning lights.",
+    "- Use the vehicle’s tool kit and follow the steps precisely.",
+    "- Loosen wheel bolts before lifting the car with the jack.",
+    "- Replace with a spare or temporary wheel and tighten bolts securely.",
+    "- Have the damaged tyre inspected and repaired or replaced as soon as possible."
+  ],
+  "Tyre pressure monitor system": [
+    "- Monitors tyre pressure and alerts the driver of significant loss.",
+    "- Calibration is required after adjusting pressure or changing tyres.",
+    "- Alerts appear on the instrument cluster display.",
+    "- The system does not detect gradual pressure loss from natural leakage.",
+    "- Always calibrate the system through the infotainment menu after checking pressures."
+  ]
+}
